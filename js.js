@@ -29,7 +29,7 @@ function myFirstApp(name, age) {
 		let res = num * num;
 		document.write("Квадрат числа " + num + " = " + res);
 	}
-	calcPow(5);
+	calcPow(4);
 
 }
 myFirstApp('Тарас', '26');
